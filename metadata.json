@@ -1,0 +1,8 @@
+{
+  "name": "AI-VAOM: Voice Shopping Assistant",
+  "description": "An AI-driven voice-activated intelligent order management system with conversational shopping assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
